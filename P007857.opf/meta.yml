@@ -1,16 +1,17 @@
-id: opecha:P007857
+id: P007857
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W20829
   title: ཞྭ་སྒབ་པའི་བོད་ཀྱི་སྲིད་དོན་རྒྱལ་རབས་དང་བོད་ཀྱི་ལོ་རྒྱུས་དངོས།
-  volume:
+  author: ''
+  volumes:
     d9c4589164364ebf80b4769c9eb0b877:
       image_group_id: I1KG24081
       title: Volume 1 of zhwa sgab pa'i bod kyi srid don rgyal rabs dang bod kyi lo
         rgyus dngos/
       volume_number: 1
       total_pages: 302
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཞྭ་སྒབ་པའི་བོད་ཀྱི་སྲིད་དོན་རྒྱལ་རབས་དང་བོད་ཀྱི་ལོ་རྒྱུས་དངོས།
   author: ''
