@@ -5,11 +5,13 @@ source_metadata:
   title: ཞྭ་སྒབ་པའི་བོད་ཀྱི་སྲིད་དོན་རྒྱལ་རབས་དང་བོད་ཀྱི་ལོ་རྒྱུས་དངོས།
   author: ''
   volumes:
-    1f8dd86214604f1a879b79597178777c:
+    d9c4589164364ebf80b4769c9eb0b877:
       image_group_id: I1KG24081
-      title: ''
+      title: Volume 1 of zhwa sgab pa'i bod kyi srid don rgyal rabs dang bod kyi lo
+        rgyus dngos/
       volume_number: 1
       total_pages: 302
+      base_file: v001.txt
 ebook_metadata:
   title: ཞྭ་སྒབ་པའི་བོད་ཀྱི་སྲིད་དོན་རྒྱལ་རབས་དང་བོད་ཀྱི་ལོ་རྒྱུས་དངོས།
   author: ''
